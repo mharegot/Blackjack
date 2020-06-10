@@ -1,0 +1,50 @@
+--------------------------
+- Overview 95.6/100
+--------------------------
+
+Overall, this was a good project. You completed a non-trivial application
+without heavy reliance on existing assets and tutorials. In other words, your
+team did a lot completely on your own. Great job on animations and game flow. I
+like the 3D assets you used. And the care you spent on realistically handling
+the chips. Consider compiling this program for webgl and hosting the demo from
+github. 
+
+Your usage of git was terrific. Good use of github and branches. 
+
+Some suggestions for improvements:
+- Integrate assets (background images/fonts) to make the UI prettier.
+- Add more HUD elements to make it clear how much money your opponents have  
+- Do you show when an opponent busts?
+- Try making the cards 'non-illuminated' so that they are brighter and easier to see
+- Don't put the Hit/Stand buttons on top of the player's cards
+- Add text to tell user that they are out of money
+
+Based on evaluations and git history, it looks like everyone contributed to 
+the final project in a non-trivial way (see stats/index.html for details). 
+April author of the month goes to David and May author of the month goes to Alex. 
+Most cummulated added lines goes to David. Good work all!
+
+--------------------------
+- Breakdown
+--------------------------
+
+(10 points) Proposal: A
+(10 points) Sprints: A
+(10 points) Studio (In class meetings): A 
+(4 points) Record of weekly progress: A
+(3.6/4 points) Final report: B, would have liked to see the list of completed features in an easy to view format
+(4 points) Post-mortem: A
+(4 points) Credits: A 
+(4 points) Updated design doc: 
+(35 points) Source code: 
+
+-1 It is customary to include the git clone command to make it easier for the user
+-1 Please include the scene to load; No instructions on how to build and run
+your backend tests
+
+However, I was able to build and run without problems.
+
+(15 points) Test code: 
+
+-2 Would be good to include scenes for testing Unity elements
+
